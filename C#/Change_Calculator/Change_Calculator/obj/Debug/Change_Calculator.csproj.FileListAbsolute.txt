@@ -1,0 +1,6 @@
+C:\Users\Scott Webb\Documents\GitHub\Home_Projects\C#\Change_Calculator\Change_Calculator\bin\Debug\Change_Calculator.exe.config
+C:\Users\Scott Webb\Documents\GitHub\Home_Projects\C#\Change_Calculator\Change_Calculator\bin\Debug\Change_Calculator.exe
+C:\Users\Scott Webb\Documents\GitHub\Home_Projects\C#\Change_Calculator\Change_Calculator\bin\Debug\Change_Calculator.pdb
+C:\Users\Scott Webb\Documents\GitHub\Home_Projects\C#\Change_Calculator\Change_Calculator\obj\Debug\Change_Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Scott Webb\Documents\GitHub\Home_Projects\C#\Change_Calculator\Change_Calculator\obj\Debug\Change_Calculator.exe
+C:\Users\Scott Webb\Documents\GitHub\Home_Projects\C#\Change_Calculator\Change_Calculator\obj\Debug\Change_Calculator.pdb
